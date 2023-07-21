@@ -43,7 +43,7 @@ Welcome to your new dbt project!
 
 7. ```dbt run``` - should run as long as schema and table specified in input model - extract_forms_params model exists
 
-8. ```dbt test``` - run test
+8. ```dbt test``` - run tests
 
 9. Model viewer dbt docs - browser based viewer to see details of models and compiled column list of each table/view 
 ```
